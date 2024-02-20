@@ -1,6 +1,6 @@
 # UETRV-PCORE-Linux
 **Introduction**
-This Makefile is designed to facilitate the process of booting Linux on the UET-RV-PCORE platform. Authored by Wajid Ali, Abdullah Azhar, Uneeb Kamal and Massoma Zia ,an Undergraduate Students specializing in Electrical Engineering at the Department of Electrical Engineering, University of Engineering and Technology Lahore (UET Lahore), this Makefile is crafted as part of the Digital Design Research Lab (DDRC) at UET Lahore.
+This Makefile is designed to facilitate the process of booting Linux on the UET-RV-PCORE platform. Authored by Wajid Ali, Abdullah Azhar, Uneeb Kamal and Masooma Zia ,an Undergraduate Students specializing in Electrical Engineering at the Department of Electrical Engineering, University of Engineering and Technology Lahore (UET Lahore), this Makefile is crafted as part of the Digital Design Research Lab (DDRC) at UET Lahore.
 
 **System Requirements**
 RISC-V toolchain
